@@ -1,5 +1,5 @@
 h1{
-    color: royalblue;
+    color: yellowgreen;
 }
 img{
     width: 400px;
@@ -7,14 +7,13 @@ img{
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color: greenyellow;
+    background-color: yellowgreen;
     padding: 50px;
-    border: 5px solid purple; 
-    border-radius: 30px;
+    border: 50px solid red;
 }
+
 #spanId{
     font-size: 18px;
     margin: 50px;
-
 
 }
