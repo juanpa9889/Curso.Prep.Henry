@@ -55,5 +55,17 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Ejercicio 6. */
 #ejercicioCinco {
+    position: relative;
     flex-direction: row-reverse;
+}
+
+
+#ejercicioSiete{
+    align-items: center;
+}
+
+#elementoUno{
+    position: absolute;
+    top: 0;
+    left: 0;
 }
